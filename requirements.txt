@@ -1,0 +1,6 @@
+python-dotenv
+openai
+pandas
+tiktoken
+google-cloud-aiplatform
+panel
